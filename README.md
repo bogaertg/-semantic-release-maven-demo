@@ -1,5 +1,3 @@
-# -semantic-release-maven
+# -semantic-release-maven-demo
 
 
-
--demo
